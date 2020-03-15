@@ -13,7 +13,6 @@ namespace Library_Management_System_Web.Areas.Admin.Controllers
         public IActionResult Index()
         {
             var model = new DashboardModel();
-            model.MenuModel = new MenuModel();
             return View();
         }
     }

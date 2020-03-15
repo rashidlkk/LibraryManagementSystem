@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Library_Management_System_Web.Areas.Admin.Models
 {
-    public class DashboardModel : AdminBaseModel
+    public class BooksModel : AdminBaseModel
     {
     }
 }
